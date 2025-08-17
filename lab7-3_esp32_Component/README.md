@@ -29,4 +29,6 @@ lab7-3_esp32_Component/
 
 ## ผลลัพธ์
 
-![Uploading image.png…]()
+<img width="888" height="666" alt="image" src="https://github.com/user-attachments/assets/37d92ab8-aecd-445b-8a84-188186e3cc96" />
+
+
