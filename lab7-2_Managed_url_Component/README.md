@@ -17,4 +17,9 @@
 ## การใช้งาน
 1. เข้าไปในโฟลเดอร์ lab7-2_Managed_url_Component
 2. รันคำสั่ง `idf.py build` (จะดาวน์โหลด component จาก GitHub อัตโนมัติ)
+
 3. ทดสอบด้วย QEMU
+
+## ผลลัพธ์
+- ให้ผลลักษณะเดียวกับ component แบบ local 
+<img width="940" height="364" alt="image" src="https://github.com/user-attachments/assets/d7caf464-5c57-4acf-ab9f-f9d85611fd93" />
