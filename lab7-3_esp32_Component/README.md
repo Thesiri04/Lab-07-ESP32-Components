@@ -24,4 +24,9 @@ lab7-3_esp32_Component/
 │   ├── CMakeLists.txt
 │   └── lab7-3.c
 ├── build/
+
 └── README.md
+
+## ผลลัพธ์
+
+![Uploading image.png…]()
